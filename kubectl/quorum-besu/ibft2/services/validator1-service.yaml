@@ -6,7 +6,7 @@ metadata:
     app: validator1
   namespace: besu
 spec:
-  type: ClusterIP
+  type: NodePort
   selector:
     app: validator1
   ports:

@@ -1,0 +1,1 @@
+docker build -t quorum-dev-quickstart/block-explorer-light:develop block-explorer-light/.

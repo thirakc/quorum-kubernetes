@@ -86,3 +86,9 @@ In a fresh browser tab open `192.168.99.100:30030` to get to the grafana dashboa
 ```
 ./remove.sh
 ```
+
+## Block Explorer light
+to create image of explorer
+```
+./build.sh
+```
